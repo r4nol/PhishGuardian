@@ -1,0 +1,6 @@
+torch~=2.6.0+cu126
+transformers~=4.49.0
+datasets~=3.3.1
+scikit-learn~=1.6.1
+pandas~=2.2.3
+numpy~=2.2.3
