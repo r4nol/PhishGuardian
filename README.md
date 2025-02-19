@@ -10,7 +10,7 @@ This repository contains a complete implementation of **Phishing Email Detection
 
 ## 📂 Repository Structure
 - `PhishGuardian.ipynb` – Jupyter Notebook with complete training and evaluation pipeline.
-- `phishing_model/` – Directory containing the trained model (to be added after training).
+- `phishing_model/` – Directory containing the trained model.
 - `README.md` – This documentation file.
 
 ## 🔥 Usage
